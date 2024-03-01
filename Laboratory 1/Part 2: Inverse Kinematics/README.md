@@ -1,3 +1,4 @@
 <h1 align="center"> INVERSE KINEMATICS </h1> 
 
 
+![SCARA - WRITTEN DERIVATION OF THE INVERSE KINEMATICS USING METHOD](https://github.com/limwelwel/Robotics2_FK-IK_Group9_SCARA_2024/assets/157688731/b32f3dfb-62c5-4633-95aa-d919ec1386bc)
