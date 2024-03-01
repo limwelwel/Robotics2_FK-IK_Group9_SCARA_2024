@@ -1,4 +1,4 @@
-<h1 align="center"> Inverse Kinematics </h1> 
+<h1 align="center"> INVERSE KINEMATICS </h1> 
 
 ## Instruction: Read and comprehend the expected output for each task then perform them according to your group designation. 
 
