@@ -17,6 +17,9 @@ z0_3 = float(input("z0_3 = "))
 # Inverse Kinematic Solutions using Graphical Method
 
 # Solution 1
+phi2 = np.arctan(y0_3/x0_3)
+
+
 # Solution 2
 # Solution 3
 # Solution 4
