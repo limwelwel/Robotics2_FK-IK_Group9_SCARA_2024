@@ -55,3 +55,6 @@ print(np.around(x0_3,3))
 y0_3 = H0_3[1,3]
 print("y0_3 = ")
 print(np.around(y0_3,3))
+
+z0_3 = H0_3[2,3]
+print("z0_3 = ")
