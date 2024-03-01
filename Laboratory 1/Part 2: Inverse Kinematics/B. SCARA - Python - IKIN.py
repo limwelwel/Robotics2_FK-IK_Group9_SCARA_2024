@@ -35,4 +35,6 @@ phi3 = np.arccos((r1**2-a2**2-a4**2)/(-2*a2*a4))
 phi3 = phi3*180/np.pi
 
 # Solution 6
+theta2 = 180 - phi3
+
 # Solution 7
