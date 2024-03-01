@@ -14,3 +14,4 @@ a5 = 3;
 
 d3 = 4;
 
+%% D-H Parameters [theta,d,r,alpha,offset]
