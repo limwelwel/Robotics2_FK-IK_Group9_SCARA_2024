@@ -1,6 +1,6 @@
 import numpy as np
 
-#Inverse Kinematics of SCARA using Graphical Method
+#Inverse Kinematics of SCARA MANIPULATOR using Graphical Method
 
 # link lengths in mm
 a1 = float(input("a1 = "))
