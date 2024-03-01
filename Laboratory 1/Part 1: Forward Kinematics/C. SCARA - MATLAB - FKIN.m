@@ -17,3 +17,4 @@ d3 = 4;
 %% D-H Parameters [theta,d,r,alpha,offset]
 
 H0_1 = Link([0,a1,a2,0,0,0]);
+H0_1.qlim = pi/180*[-90 90];
