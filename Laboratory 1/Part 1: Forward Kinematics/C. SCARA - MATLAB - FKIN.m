@@ -8,3 +8,6 @@ a1 = 4;
 a2 = 3;
 a3 = 4;
 a4 = 3;
+a5 = 3;
+
+%% Joint Variables
