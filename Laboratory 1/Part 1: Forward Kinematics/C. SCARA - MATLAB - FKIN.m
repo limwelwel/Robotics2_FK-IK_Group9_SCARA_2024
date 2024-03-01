@@ -1,1 +1,3 @@
+disp('SCARA MANIPULATOR')
+
 
