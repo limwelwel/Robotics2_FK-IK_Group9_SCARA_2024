@@ -13,3 +13,7 @@ a5 = float(input("a5 = "))
 T1 = float(input("T1 = ")) #20 mm
 T2 = float(input("T2 = ")) #30 deg
 D3 = float(input("D3 = ")) #-90 deg
+
+#degree to radian
+T1 = (T1/180.0)*np.pi
+T2 = (T2/180.0)*np.pi
