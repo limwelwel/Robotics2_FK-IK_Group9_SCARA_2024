@@ -41,3 +41,4 @@ theta2 = 180 - phi3
 d3 =  a1 + a3 - a5 -z0_3  
 
 print("theta1 = ", np.around(theta1,3))
+print("theta2 = ", np.around(theta2,3))
