@@ -10,4 +10,5 @@ a4 = float(input("a4 = "))
 a5 = float(input("a5 = "))
 
 # Position Vector in mm
+x0_3 = float(input("x0_3 = "))
 y0_3 = float(input("y0_3 = "))
