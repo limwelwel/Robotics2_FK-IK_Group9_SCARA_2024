@@ -15,3 +15,5 @@ y0_3 = float(input("y0_3 = "))
 z0_3 = float(input("z0_3 = "))
 
 # Inverse Kinematic Solutions using Graphical Method
+
+# Solution 1
