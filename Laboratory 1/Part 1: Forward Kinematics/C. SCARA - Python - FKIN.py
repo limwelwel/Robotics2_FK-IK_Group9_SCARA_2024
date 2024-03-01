@@ -17,3 +17,8 @@ D3 = float(input("D3 = ")) #-90 deg
 #degree to radian
 T1 = (T1/180.0)*np.pi
 T2 = (T2/180.0)*np.pi
+
+#Parametric Table (theta, alpha, r, d)
+PT = [[(0.0/180.0)*np.pi + T1,(0.0/180.0)*np.pi,a2,a1], 
+[(0.0/180.0)*np.pi + T2,(180.0/180.0)*np.pi,a4,a3],
+[(0.0/180.0)*np.pi,(0.0/180.0)*np.pi,0,a5+ D3]]
