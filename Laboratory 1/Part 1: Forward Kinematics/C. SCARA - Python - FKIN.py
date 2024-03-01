@@ -38,3 +38,12 @@ i = 2
 H2_3 = [[np.cos(PT[i][0]),-np.sin(PT[i][0])*np.cos(PT[i][1]),np.sin(PT[i][0])*np.sin(PT[i][1]),PT[i][2]*np.cos(PT[i][0])], [np.sin(PT[i][0]),np.cos(PT[i][0])*np.cos(PT[i][1]),-np.cos(PT[i][0])*np.sin(PT[i][1]),PT[i][2]*np.sin(PT[i][0])],
 [0,np.sin(PT[i][1]),np.cos(PT[i][1]),PT[i][3]],
 [0,0,0,1]]
+
+H0_1 = np.matrix(H0_1)
+
+H1_2 = np.matrix(H1_2)
+
+H2_3 = np.matrix(H2_3)
+
+H0_2 = np.dot(H0_1,H1_2)
+H0_3 = np.dot(H0_2,H2_3)
