@@ -38,3 +38,4 @@ phi3 = phi3*180/np.pi
 theta2 = 180 - phi3
 
 # Solution 7
+d3 =  a1 + a3 - a5 -z0_3  
