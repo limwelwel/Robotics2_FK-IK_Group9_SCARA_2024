@@ -24,3 +24,7 @@ H1_2.qlim = pi/180*[-90 90];
 
 H2_3 = Link([0,0,0,0,1,a5]);
 H2_3.qlim = [0 d3];
+
+%% Build Mechanical Manipulator
+
+Scara = SerialLink([H0_1 H1_2 H2_3], 'name', 'SCARA')
