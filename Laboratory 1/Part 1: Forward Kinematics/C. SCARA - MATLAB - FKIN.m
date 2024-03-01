@@ -11,3 +11,6 @@ a4 = 3;
 a5 = 3;
 
 %% Joint Variables
+
+d3 = 4;
+
