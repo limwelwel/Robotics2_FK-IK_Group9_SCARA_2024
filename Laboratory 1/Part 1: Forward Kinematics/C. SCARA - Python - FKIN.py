@@ -51,3 +51,7 @@ H0_3 = np.dot(H0_2,H2_3)
 x0_3 = H0_3[0,3]
 print("x0_3 = ")
 print(np.around(x0_3,3))
+
+y0_3 = H0_3[1,3]
+print("y0_3 = ")
+print(np.around(y0_3,3))
