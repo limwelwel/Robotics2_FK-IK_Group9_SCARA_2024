@@ -28,6 +28,8 @@ phi1 = np.arccos((a4**2-r1**2-a2**2)/(-2*r1*a2))
 phi1 = phi1*180/np.pi
 
 # Solution 4
+theta1 = phi2 - phi1
+
 # Solution 5
 # Solution 6
 # Solution 7
