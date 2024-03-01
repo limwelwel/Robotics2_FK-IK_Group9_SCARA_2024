@@ -28,3 +28,7 @@ H2_3.qlim = [0 d3];
 %% Build Mechanical Manipulator
 
 Scara = SerialLink([H0_1 H1_2 H2_3], 'name', 'SCARA')
+
+Scara.plot([0 0 0], 'workspace', [-10 10 -10 10 -2 10])
+
+Scara.teach
