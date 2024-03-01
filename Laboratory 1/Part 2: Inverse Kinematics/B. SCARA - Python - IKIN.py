@@ -21,6 +21,7 @@ phi2 = np.arctan(y0_3/x0_3)
 phi2 = phi2*180/np.pi
 
 # Solution 2
+r1 = np.sqrt((y0_3**2)+(x0_3**2))
 # Solution 3
 # Solution 4
 # Solution 5
