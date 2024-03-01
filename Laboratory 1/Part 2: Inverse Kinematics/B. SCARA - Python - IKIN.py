@@ -18,7 +18,7 @@ z0_3 = float(input("z0_3 = "))
 
 # Solution 1
 phi2 = np.arctan(y0_3/x0_3)
-
+phi2 = phi2*180/np.pi
 
 # Solution 2
 # Solution 3
