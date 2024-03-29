@@ -1,9 +1,9 @@
 <p align="center">
   <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/3078971571d8ab959cb3e9882e7a0265d9947afc/bsu%20header.png alt=Bsu style="height: 200px;">
+  <hr>
 <h3 align="center">COLLEGE OF ENGINEERING</h3>
 <h3 align="center">BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</h3>
 <h3 align="center">ROBOTICS 2: Midterm Project</h3>
-
 <h1 align="center"> Forward and Inverse Kinematics </h1> 
 <br>
 
@@ -24,5 +24,7 @@
 ## VIII. Forward and Inverse Kinematics GUI calculator of SCARA Mechanical Manipulator 
 
 ## IX. References
+<hr>
+
 <p align="center">
   <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/3078971571d8ab959cb3e9882e7a0265d9947afc/bsu%20footer.png alt=Bsu style="height: 200px;">
