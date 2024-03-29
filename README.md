@@ -24,9 +24,5 @@
 ## VIII. Forward and Inverse Kinematics GUI calculator of SCARA Mechanical Manipulator 
 
 ## IX. References
-
-
-
-
-
-
+<p align="center">
+  <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/3078971571d8ab959cb3e9882e7a0265d9947afc/bsu%20footer.png alt=Bsu style="height: 200px;">
