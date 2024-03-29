@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/65286bba890d1cc1bf334affe33d317c57200be2/bsu.png alt=Spherical-Manipulator-Kinematic-Diagram style="height: 200px;">
+  <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/3078971571d8ab959cb3e9882e7a0265d9947afc/bsu%20header.png alt=Bsu style="height: 200px;">
 <h3 align="center">COLLEGE OF ENGINEERING</h3>
 <h3 align="center">BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</h3>
 <h3 align="center">ROBOTICS 2: Midterm Project</h3>
