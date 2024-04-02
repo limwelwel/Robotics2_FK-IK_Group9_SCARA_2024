@@ -39,7 +39,7 @@
 <p align="justify"> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The actual assignment of the frames can be a help for a much easier approach of analyzing the manipulator’s kinematic behavior. Rules are to be considered as well for an organized and systematic identification of the frames for specific joints, either revolute or prismatic.
 
-### D-H Frame Rules.
+### D-H Frame Rules
 
 **Rule 1:** The Z axis must be the axis of rotation for a revolute/twisting, or the direction of translation for a prismatic joint.
 
