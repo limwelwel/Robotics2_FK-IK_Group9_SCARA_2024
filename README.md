@@ -69,6 +69,8 @@
 ## VI. HTM of SCARA Mechanical Manipulator
 
 ## VII. Inverse Kinematics of SCARA Mechanical Manipulator
+<p align="justify"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Inverse kinematics</b> is a mathematical process that determines the joint positions required to position a robot's end effector at a specific position and orientation (also known as its "pose"). When dealing with inverse kinematics, there can be multiple solutions and approaches to calculating the desired joint positions. In the case of an RRP SCARA manipulator, which involves finding solutions for joint variables like  θ1, θ2 and d3, the process typically entails visualizing the kinematic diagram from a top view and utilizing mathematical formulas to determine the joint angles. It is important to note that for an RRP SCARA manipulator, seven solutions can be obtained for the inverse kinematics, which is essential in specifying the robot's motion.
 
 ## VIII. Forward and Inverse Kinematics GUI calculator of SCARA Mechanical Manipulator 
 
