@@ -23,7 +23,7 @@
 
 ## IV. Kinematic Diagram and D-H Frame assignment of SCARA Mechanical Manipulator 
 <p align="justify"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Denavit-Hartenberg Notation of a specific manipulator can be done with the help of D-H Frame Rules to identify the frames of respective joints, where it serves as the coordinate system of the manipulator to know where it is and where to go. And to be able to do this there are rules that must be followed. Listed below are the D-H Preliminary Rules in identifying the D-H notation of a SCARA manipulator:
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <b>Denavit-Hartenberg Notation</b> of a specific manipulator can be done with the help of D-H Frame Rules to identify the frames of respective joints, where it serves as the coordinate system of the manipulator to know where it is and where to go. And to be able to do this there are rules that must be followed. Listed below are the D-H Preliminary Rules in identifying the D-H notation of a SCARA manipulator:
 
 ### D-H Frame Preliminary Rules
 
@@ -53,7 +53,7 @@
 
 ## V. D-H Parametric Table of SCARA Mechanical Manipulator
 <p align="justify"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jacques Denavit and Richard Hartenberg introduce a convention called D-H Parametric table, also known as the Denavit-Hartenberg table, a tabular representation that captures the geometric and kinematic properties of each link and joint in a mechanical manipulator. This approach can be used for an efficient analysis, modeling,and control of the mechanical manipulator’s motion. Parameters <b>θ, 𝛂, r</b>, and d are the four important parameters associated with this approach. These parameters employ specific roles and identification. θ (Theta) and 𝛂 (Alpha) are the parameters that describes the rotation or orientation of the manipulator.  r, and d are parameters that can describe the displacement of the subsequent joint to the succeeding joint with respect to an axis.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jacques Denavit and Richard Hartenberg introduce a convention called <b>D-H Parametric table</b>, also known as the Denavit-Hartenberg table, a tabular representation that captures the geometric and kinematic properties of each link and joint in a mechanical manipulator. This approach can be used for an efficient analysis, modeling,and control of the mechanical manipulator’s motion. Parameters <b>θ, 𝛂, r</b>, and d are the four important parameters associated with this approach. These parameters employ specific roles and identification. θ (Theta) and 𝛂 (Alpha) are the parameters that describes the rotation or orientation of the manipulator.  r, and d are parameters that can describe the displacement of the subsequent joint to the succeeding joint with respect to an axis.
 
 <p align="justify"> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In fulfilling the necessary values for the D-H Parametric table,  it is important to always take note of the guidelines for finding the values for the respective parameters.
