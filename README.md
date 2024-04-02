@@ -22,6 +22,34 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>DOF, or Degrees of Freedom</b>, refers to the number of possible independent variables or parameters that a system or a manipulator can possess. Moreover, it is usually referred to as the number of joints or axes of motion. In a mechanism, three-dimensional space can support up to 6 degrees of freedom, represented as translational and rotational. Whereas, translational motion refers to the movement that is both linear and non-rotational. While rotational motion is referred to as the opposite of translational motion. The SCARA manipulator has a total of 3 degrees of freedom, and it consists of 2 revolute joints and 1 prismatic joint, also referred to as RRP (Revolute-Revolute-Prismatic).
 
 ## IV. Kinematic Diagram and D-H Frame assignment of SCARA Mechanical Manipulator 
+<p align="justify"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Denavit-Hartenberg Notation of a specific manipulator can be done with the help of D-H Frame Rules to identify the frames of respective joints, where it serves as the coordinate system of the manipulator to know where it is and where to go. And to be able to do this there are rules that must be followed. Listed below are the D-H Preliminary Rules in identifying the D-H notation of a SCARA manipulator:
+
+### D-H Frame Preliminary Rules
+
+**Rule 1:** Decide first the 3 views you want to project on your isometric drawing..
+
+**Rule 2:** Identify the center of your frames.
+
+**Rule 3:** Draw the color Coded arrows based on your decided 3 views.
+(Blue for Z-Axis, Green for Y-Axis, and Red for X-Axis)
+
+**Rule 4:** remember to make the arrows of Z and X axes easy to see for the future computations.
+
+<p align="justify"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The actual assignment of the frames can be a help for a much easier approach of analyzing the manipulator’s kinematic behavior. Rules are to be considered as well for an organized and systematic identification of the frames for specific joints, either revolute or prismatic.
+
+### D-H Frame Rules.
+
+**Rule 1:** The Z axis must be the axis of rotation for a revolute/twisting, or the direction of translation for a prismatic joint.
+
+**Rule 2:** The X axis must be perpendicular both to its own Z axis, and the Z axis of the frame before it.
+
+**Rule 3:** Each X axis must intersect the Z axis of the frame before it. If this rule was not followed there are Rules for Complying this 3rd Rule:
+- Rotate the axis until it hits the other.
+- Or translate the axis until it hits the other.
+
+**Rule 4:** All frames must follow the right-hand rule.
 
 ## V. D-H Parametric Table of SCARA Mechanical Manipulator
 
