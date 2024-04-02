@@ -18,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As technology undergoes rapid advancement, complicated tasks such as control systems are accomplished with a highly automated control system. Due to increased use of industrial robot arms, an evolution to that topic began trying to imitate human movements in a detailed mode. The mechanical design of the robot arm is based on a robot manipulator with similar functions to a human arm. The links of such a manipulator are connected by joints allowing rotational motion and the links of the manipulator are considered to form a kinematic chain. The business end of the kinematic chain of the manipulator is called the end effector or end-of-arm-tooling and it is analogous to the human hand. To validate the right positioning of the robotic arm, inverse kinematics calculations are carried out.
 
 ## III. Degrees of Freedom of SCARA Mechanical Manipulaltor
+<p align="justify"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>DOF, or Degrees of Freedom</b>, refers to the number of possible independent variables or parameters that a system or a manipulator can possess. Moreover, it is usually referred to as the number of joints or axes of motion. In a mechanism, three-dimensional space can support up to 6 degrees of freedom, represented as translational and rotational. Whereas, translational motion refers to the movement that is both linear and non-rotational. While rotational motion is referred to as the opposite of translational motion. The SCARA manipulator has a total of 3 degrees of freedom, and it consists of 2 revolute joints and 1 prismatic joint, also referred to as RRP (Revolute-Revolute-Prismatic).
 
 ## IV. Kinematic Diagram and D-H Frame assignment of SCARA Mechanical Manipulator 
 
