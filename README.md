@@ -20,6 +20,8 @@ As technology undergoes rapid advancement, complicated tasks such as control sys
 ## III. Degrees of Freedom of SCARA Mechanical Manipulaltor
 <p align="justify"> 
 <b>DOF, or Degrees of Freedom</b>, refers to the number of possible independent variables or parameters that a system or a manipulator can possess. Moreover, it is usually referred to as the number of joints or axes of motion. In a mechanism, three-dimensional space can support up to 6 degrees of freedom, represented as translational and rotational. Whereas, translational motion refers to the movement that is both linear and non-rotational. While rotational motion is referred to as the opposite of translational motion. The SCARA manipulator has a total of 3 degrees of freedom, and it consists of 2 revolute joints and 1 prismatic joint, also referred to as RRP (Revolute-Revolute-Prismatic).
+  
+[Task 1 Video](https://drive.google.com/file/d/1CdT6I6RHsr7WKCz6EY8NfhsUF3WhsL46/view?usp=sharing)
 
 ## IV. Kinematic Diagram and D-H Frame assignment of SCARA Mechanical Manipulator 
 <p align="justify"> 
