@@ -99,7 +99,10 @@
 
 <p align="center">
 <img src="https://github.com/limwelwel/DRAFT/blob/178a4559b447eaac9f03a16d24888d880ae1a597/Scara%20F.png"  height="500px"/> <img src="https://github.com/limwelwel/DRAFT/blob/178a4559b447eaac9f03a16d24888d880ae1a597/Scara%20I%26F.png" height="500px"/>
-
+<h3 align="center"> <b><i>Figure #. Forward and Inverse Kinematics Calculator of the Standard SCARA Manipulator</i></b> </h3>
+  
+<p align="justify"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A detailed video of the calculator of the <b>Standard SCARA Manipulator</b> is demonstrated in this part. This calculator was created using the Python programming language. The making of this calculator comprises several codes for it to function accordingly. The calculator has fields where the variables' values can be entered and buttons where the user can obtain the desired parameters such as forward and inverse kinematics.
 
   <p align="center">
   <a href="https://drive.google.com/file/d/1cS7UrIVmMEwfAtqNzpuIv1ekngvSZmjs/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%206.png"height="400px"/></a>
