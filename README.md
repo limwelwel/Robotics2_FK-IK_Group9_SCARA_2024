@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/limwelwel/DRAFT/blob/a2f017a4f03bd17b3a67724b250e14f34836493d/DOF%20SOLU.png"  height="300px"/>
+<img src="https://github.com/limwelwel/DRAFT/blob/a2f017a4f03bd17b3a67724b250e14f34836493d/DOF%20SOLU.png"  height="400px"/>
 <h3 align="center"> <b><i>Figure 1. SCARA Manipulator DOF Calculation</i></b> </h3>
 <br>
 
