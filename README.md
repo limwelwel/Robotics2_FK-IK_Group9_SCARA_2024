@@ -30,30 +30,28 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <b>Denavit-Hartenberg Notation</b> of a specific manipulator can be done with the help of D-H Frame Rules to identify the frames of respective joints, where it serves as the coordinate system of the manipulator to know where it is and where to go. And to be able to do this there are rules that must be followed. Listed below are the D-H Preliminary Rules in identifying the D-H notation of a SCARA manipulator:
 
 ### D-H Frame Preliminary Rules
-```
-Rule 1: Decide first the 3 views you want to project on your isometric drawing..
+**Rule 1:** Decide first the 3 views you want to project on your isometric drawing..
 
-Rule 2:Identify the center of your frames.
+**Rule 2:** Identify the center of your frames.
 
-Rule 3: Draw the color Coded arrows based on your decided 3 views.
+**Rule 3:** Draw the color Coded arrows based on your decided 3 views.
 
-Rule 4: remember to make the arrows of Z and X axes easy to see for the future computations.
-```
+**Rule 4:** remember to make the arrows of Z and X axes easy to see for the future computations.
+
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The actual assignment of the frames can be a help for a much easier approach of analyzing the manipulator’s kinematic behavior. Rules are to be considered as well for an organized and systematic identification of the frames for specific joints, either revolute or prismatic.
 
 ### D-H Frame Rules
-```
-Rule 1:The Z axis must be the axis of rotation for a revolute/twisting, or the direction of translation for a prismatic joint.
+**Rule 1:** The Z axis must be the axis of rotation for a revolute/twisting, or the direction of translation for a prismatic joint.
 
-Rule 2: The X axis must be perpendicular both to its own Z axis, and the Z axis of the frame before it.
+**Rule 2:** The X axis must be perpendicular both to its own Z axis, and the Z axis of the frame before it.
 
-Rule 3: Each X axis must intersect the Z axis of the frame before it. If this rule was not followed there are Rules for Complying this 3rd Rule:
+**Rule 3:** Each X axis must intersect the Z axis of the frame before it. If this rule was not followed there are Rules for Complying this 3rd Rule:
 - Rotate the axis until it hits the other.
 - Or translate the axis until it hits the other.
 
-Rule 4: All frames must follow the right-hand rule.
-```
+**Rule 4:** All frames must follow the right-hand rule.
+
  <p align="center">
   <a href="https://drive.google.com/file/d/1rymezMT4zJorQF2his_l1TRBt6K0IQWT/view?usp=sharing"><img alt="Task 2" title="Task 2" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%202.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 2. Assigning of Frames of the Standard SCARA Manipulator</i></b> </h3>
@@ -65,15 +63,14 @@ Rule 4: All frames must follow the right-hand rule.
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In fulfilling the necessary values for the D-H Parametric table,  it is important to always take note of the guidelines for finding the values for the respective parameters.
   
-```
-θ - This is the Rotation around Zn-1 that us required to get the Xn-1 to match Xn with the joint variable Θ, if joint is revolute / twisting joint.
+**θ** - This is the Rotation around Zn-1 that us required to get the Xn-1 to match Xn with the joint variable Θ, if joint is revolute / twisting joint.
 
-⍺ - This is the Rotation around Xn that is required to match Zn-1 to Zn.
+**⍺** - This is the Rotation around Xn that is required to match Zn-1 to Zn.
 
-r - The distance between  the origins of n-1 and n frames along the Xn direction.
+**r** - The distance between  the origins of n-1 and n frames along the Xn direction.
 
-d - The distance between the origins of n-1 and n frames along the Zn-1 direction, with joint variables if the joint is prismatic.
-```
+**d** - The distance between the origins of n-1 and n frames along the Zn-1 direction, with joint variables if the joint is prismatic.
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1naChFGyDiIW3-L_m8huqTZHfjY5MXMNQ/view?usp=sharing"><img alt="Task 3" title="Task 3" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%203.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 3. Obtaining the D-H Parametric Table of the Standard SCARA Manipulator</i></b> </h3>
