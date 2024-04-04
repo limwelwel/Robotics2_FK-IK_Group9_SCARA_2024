@@ -23,7 +23,7 @@ As technology undergoes rapid advancement, complicated tasks such as control sys
   
 <p align="center">
   <a href="https://drive.google.com/file/d/1CdT6I6RHsr7WKCz6EY8NfhsUF3WhsL46/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/PYTHON-PROGRAMS/blob/e5505ad3d8627a24d04b4ce95dc09fd4f19ea097/TASK%201.png"/></a>
-<h3 align="center"> <b><i>Vid 1. Solving the DOF (Degrees of Freedom) of the Standard SCARA Manipulator</i></b> </h3> 
+<h3 align="center"> <b><i>Video 1. Solving the DOF (Degrees of Freedom) of the Standard SCARA Manipulator</i></b> </h3> 
   
 ## IV. Kinematic Diagram and D-H Frame assignment of SCARA Mechanical Manipulator 
 <p align="justify"> 
@@ -57,7 +57,8 @@ The actual assignment of the frames can be a help for a much easier approach of 
 
  <p align="center">
   <a href="https://drive.google.com/file/d/1rymezMT4zJorQF2his_l1TRBt6K0IQWT/view?usp=sharing"><img alt="Task 2" title="Task 2" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%202.png"/></a>
-
+<h3 align="center"> <b><i>Video 2. Assigning of Frames of the Standard SCARA Manipulator</i></b> </h3>
+   
 ## V. D-H Parametric Table of SCARA Mechanical Manipulator
 <p align="justify"> 
 Jacques Denavit and Richard Hartenberg introduce a convention called <b>D-H Parametric table</b>, also known as the Denavit-Hartenberg table, a tabular representation that captures the geometric and kinematic properties of each link and joint in a mechanical manipulator. This approach can be used for an efficient analysis, modeling,and control of the mechanical manipulator’s motion. Parameters <b>θ, 𝛂, r</b>, and d are the four important parameters associated with this approach. These parameters employ specific roles and identification. θ (Theta) and 𝛂 (Alpha) are the parameters that describes the rotation or orientation of the manipulator.  r, and d are parameters that can describe the displacement of the subsequent joint to the succeeding joint with respect to an axis.
@@ -75,12 +76,14 @@ In fulfilling the necessary values for the D-H Parametric table,  it is importan
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1naChFGyDiIW3-L_m8huqTZHfjY5MXMNQ/view?usp=sharing"><img alt="Task 3" title="Task 3" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%203.png"/></a>
-
+<h3 align="center"> <b><i>Video 3. Obtaining the D-H Parametric Table of the Standard SCARA Manipulator</i></b> </h3>
+  
 ## VI. HTM of SCARA Mechanical Manipulator
 A <b>Homogeneous Transformation Matrix</b>, often used in computer graphics, computer vision, and robotics, is a mathematical representation of a coordinate transformation in a homogeneous coordinate system. It is typically used to describe transformations such as translation, rotation, scaling, and shearing in a single matrix.
 
   <p align="center">
   <a href="https://drive.google.com/file/d/1oKe80Zd7q9mNZIj_aM2I1ZoP5hwllQgU/view?usp=sharing"><img alt="Task 4" title="Task 4" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%204.png"/></a>
+<h3 align="center"> <b><i>Video 4. Solving the HTM (Homogeneous Transformation Matrix) of the Standard SCARA Manipulator</i></b> </h3>
     
 ## VII. Inverse Kinematics of SCARA Mechanical Manipulator
 <p align="justify"> 
@@ -88,7 +91,7 @@ A <b>Homogeneous Transformation Matrix</b>, often used in computer graphics, com
 
 <p align="center">
   <a href="https://drive.google.com/file/d/179n20iP9Uhr3h8p6Zi4qoV-yyfQ9ytl5/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%205.png"/></a>
-
+<h3 align="center"> <b><i>Video 5. Solving the Inverse Kinematics of the Standard SCARA Manipulator using Graphical/Geometrical Method</i></b> </h3>
 
 ## VIII. Forward and Inverse Kinematics GUI calculator of SCARA Mechanical Manipulator 
 <p align="justify"> 
@@ -96,7 +99,8 @@ This section showcases the different calculators for SCARA manipulators used in 
 
   <p align="center">
   <a href="https://drive.google.com/file/d/1cS7UrIVmMEwfAtqNzpuIv1ekngvSZmjs/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%206.png"/></a>
-
+<h3 align="center"> <b><i>Video 6. GUI Calculator of the Standard SCARA Manipulator</i></b> </h3>
+    
 ## IX. References
 
 <hr>
