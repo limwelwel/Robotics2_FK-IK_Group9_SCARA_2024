@@ -88,7 +88,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/179n20iP9Uhr3h8p6Zi4qoV-yyfQ9ytl5/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%205.png"height="400px"/></a>
-<h3 align="center"> <b><i>Video 5. Solving the Inverse Kinematics of the Standard SCARA Manipulator using Graphical/Geometrical Method</i></b> </h3>
+<h3 align="center"> <b><i>Video 5. Solving the Inverse Kinematics of the Standard SCARA Manipulator using Graphical Method</i></b> </h3>
 
 ## VIII. Forward and Inverse Kinematics GUI calculator of SCARA Mechanical Manipulator 
 <p align="justify"> 
@@ -107,6 +107,11 @@
     
 ## IX. References
 
+The Robot Hall of Fame - Powered by Carnegie Mellon University. (n.d.). 
+http://www.robothalloffame.org/inductees/06inductees/scara.html#:~:text=The%20limited%20motion%20of%20the,ratio%20regarding%20high%20speed%20assembly.
+
+Ars. (2022). SCARA Robot. FlexiBowl. 
+https://www.flexibowl.com/scara-robot.html
 <hr>
 <p align="center">
   <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/3078971571d8ab959cb3e9882e7a0265d9947afc/bsu%20footer.png alt=Bsu style="height: 200px;">
