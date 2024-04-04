@@ -118,10 +118,12 @@
 
 ### STANDARD FORMULA
 <p align="center">
-<img src="https://github.com/limwelwel/DRAFT/blob/eb6392692f823bb9e9fe356395d0295096558479/HTM%20FORMULA.png"  height="200px"/>
+<img src="https://github.com/limwelwel/DRAFT/blob/3a2c0d4c2b5f50ba89078797cfbcf7f3e4ee09ab/htm%20formula.png"  height="300px"/>
 
 <p align="center">
-<img src="https://github.com/limwelwel/DRAFT/blob/f884d4438db1aad22269d25d01c53f23cb7b4737/inverse%20front.png"  height="400px"/>
+<img src="https://github.com/limwelwel/DRAFT/blob/3a2c0d4c2b5f50ba89078797cfbcf7f3e4ee09ab/htm%20.png"  height="300px"/>
+<img src="https://github.com/limwelwel/DRAFT/blob/c8850dc58cf8edbf0c44acc2025197601a3ef566/htm%201-2.png"  height="300px"/>
+<img src="https://github.com/limwelwel/DRAFT/blob/c8850dc58cf8edbf0c44acc2025197601a3ef566/htm%202.png"  height="300px"/>
 <h3 align="center"> <b><i>Figure 4. SCARA Manipulator HTM Calculation </i></b> </h3>
 <br>
 
