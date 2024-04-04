@@ -23,7 +23,8 @@ As technology undergoes rapid advancement, complicated tasks such as control sys
   
 <p align="center">
   <a href="https://drive.google.com/file/d/1CdT6I6RHsr7WKCz6EY8NfhsUF3WhsL46/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/PYTHON-PROGRAMS/blob/e5505ad3d8627a24d04b4ce95dc09fd4f19ea097/TASK%201.png"/></a>
-
+<h3 align="center"> <b><i>Vid 1. Solving the DOF (Degrees of Freedom) of the Standard SCARA Manipulator</i></b> </h3> 
+  
 ## IV. Kinematic Diagram and D-H Frame assignment of SCARA Mechanical Manipulator 
 <p align="justify"> 
 The <b>Denavit-Hartenberg Notation</b> of a specific manipulator can be done with the help of D-H Frame Rules to identify the frames of respective joints, where it serves as the coordinate system of the manipulator to know where it is and where to go. And to be able to do this there are rules that must be followed. Listed below are the D-H Preliminary Rules in identifying the D-H notation of a SCARA manipulator:
@@ -76,6 +77,7 @@ In fulfilling the necessary values for the D-H Parametric table,  it is importan
   <a href="https://drive.google.com/file/d/1naChFGyDiIW3-L_m8huqTZHfjY5MXMNQ/view?usp=sharing"><img alt="Task 3" title="Task 3" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%203.png"/></a>
 
 ## VI. HTM of SCARA Mechanical Manipulator
+A <b>Homogeneous Transformation Matrix</b>, often used in computer graphics, computer vision, and robotics, is a mathematical representation of a coordinate transformation in a homogeneous coordinate system. It is typically used to describe transformations such as translation, rotation, scaling, and shearing in a single matrix.
 
   <p align="center">
   <a href="https://drive.google.com/file/d/1oKe80Zd7q9mNZIj_aM2I1ZoP5hwllQgU/view?usp=sharing"><img alt="Task 4" title="Task 4" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%204.png"/></a>
