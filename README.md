@@ -54,6 +54,9 @@ The actual assignment of the frames can be a help for a much easier approach of 
 
 **Rule 4:** All frames must follow the right-hand rule.
 
+ <p align="center">
+  <a href="https://drive.google.com/file/d/1rymezMT4zJorQF2his_l1TRBt6K0IQWT/view?usp=sharing"><img alt="Task 2" title="Task 2" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%202.png"/></a>
+
 ## V. D-H Parametric Table of SCARA Mechanical Manipulator
 <p align="justify"> 
 Jacques Denavit and Richard Hartenberg introduce a convention called <b>D-H Parametric table</b>, also known as the Denavit-Hartenberg table, a tabular representation that captures the geometric and kinematic properties of each link and joint in a mechanical manipulator. This approach can be used for an efficient analysis, modeling,and control of the mechanical manipulator’s motion. Parameters <b>θ, 𝛂, r</b>, and d are the four important parameters associated with this approach. These parameters employ specific roles and identification. θ (Theta) and 𝛂 (Alpha) are the parameters that describes the rotation or orientation of the manipulator.  r, and d are parameters that can describe the displacement of the subsequent joint to the succeeding joint with respect to an axis.
@@ -69,39 +72,31 @@ In fulfilling the necessary values for the D-H Parametric table,  it is importan
 
 **d** - The distance between the origins of n-1 and n frames along the Zn-1 direction, with joint variables if the joint is prismatic.
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1naChFGyDiIW3-L_m8huqTZHfjY5MXMNQ/view?usp=sharing"><img alt="Task 3" title="Task 3" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%203.png"/></a>
+
 ## VI. HTM of SCARA Mechanical Manipulator
 
+  <p align="center">
+  <a href="https://drive.google.com/file/d/1oKe80Zd7q9mNZIj_aM2I1ZoP5hwllQgU/view?usp=sharing"><img alt="Task 4" title="Task 4" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%204.png"/></a>
+    
 ## VII. Inverse Kinematics of SCARA Mechanical Manipulator
 <p align="justify"> 
 <b>Inverse kinematics</b> is a mathematical process that determines the joint positions required to position a robot's end effector at a specific position and orientation (also known as its "pose"). When dealing with inverse kinematics, there can be multiple solutions and approaches to calculating the desired joint positions. In the case of an RRP SCARA manipulator, which involves finding solutions for joint variables like  θ1, θ2 and d3, the process typically entails visualizing the kinematic diagram from a top view and utilizing mathematical formulas to determine the joint angles. It is important to note that for an RRP SCARA manipulator, seven solutions can be obtained for the inverse kinematics, which is essential in specifying the robot's motion.
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/179n20iP9Uhr3h8p6Zi4qoV-yyfQ9ytl5/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%205.png"/></a>
+
 
 ## VIII. Forward and Inverse Kinematics GUI calculator of SCARA Mechanical Manipulator 
 <p align="justify"> 
 This section showcases the different calculators for SCARA manipulators used in Python Simulation. Two types of calculators were used for the simulation: <b>Forward Kinematics Calculator and Inverse Kinematics Calculator</b>.
 
-
-## IX. References
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1CdT6I6RHsr7WKCz6EY8NfhsUF3WhsL46/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/PYTHON-PROGRAMS/blob/e5505ad3d8627a24d04b4ce95dc09fd4f19ea097/TASK%201.png"/></a>
-
- <p align="center">
-  <a href="https://drive.google.com/file/d/1rymezMT4zJorQF2his_l1TRBt6K0IQWT/view?usp=sharing"><img alt="Task 2" title="Task 2" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%202.png"/></a>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1naChFGyDiIW3-L_m8huqTZHfjY5MXMNQ/view?usp=sharing"><img alt="Task 3" title="Task 4" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%203.png"/></a>
-
-  <p align="center">
-  <a href="https://drive.google.com/file/d/1oKe80Zd7q9mNZIj_aM2I1ZoP5hwllQgU/view?usp=sharing"><img alt="Task 4" title="Task 4" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%204.png"/></a>
-
-  <p align="center">
-  <a href="https://drive.google.com/file/d/179n20iP9Uhr3h8p6Zi4qoV-yyfQ9ytl5/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%205.png"/></a>
-
   <p align="center">
   <a href="https://drive.google.com/file/d/1cS7UrIVmMEwfAtqNzpuIv1ekngvSZmjs/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%206.png"/></a>
 
+## IX. References
 
 <hr>
-
 <p align="center">
   <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/3078971571d8ab959cb3e9882e7a0265d9947afc/bsu%20footer.png alt=Bsu style="height: 200px;">
