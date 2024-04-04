@@ -6,7 +6,7 @@
 <h3 align="center">ROBOTICS 2: Midterm Project</h3>
 <h1 align="center"> Forward and Inverse Kinematics </h1> 
 <br>
-
+  
 ## I. Abstract of the Project
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project offers an in-depth analysis of a <b>RRP</b> variant <b>SCARA</b> Manipulator, <b><i>Selective Compliance Articulated Robot for Assembly</i></b>. This includes the calculation of the degrees of freedom (DOF).  The use of Denavit-Hartenberg (DH) frame notation, which offers a methodical representation of the interaction between links and joints, is also explored in this section for modeling the kinematics of the SCARA Manipulator and Homogenous Transformation Matrix (HTM). The inverse kinematics will also be presented in this project. Furthermore, the GUI calculator gives assistance in terms of checking if the calculations of various parts of the SCARA manipulator are correct. All the fundamental concepts that have been mentioned were supported through simulation in Python, whereas it can be utilized to operate a wide range of services and programs. Images and additional descriptions are also added to create a more defined illustration of the principles of how a SCARA Manipulator operates.</p>
@@ -20,7 +20,34 @@
 ## III. Degrees of Freedom of SCARA Mechanical Manipulaltor
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>DOF, or Degrees of Freedom</b>, refers to the number of possible independent variables or parameters that a system or a manipulator can possess. Moreover, it is usually referred to as the number of joints or axes of motion. In a mechanism, three-dimensional space can support up to 6 degrees of freedom, represented as translational and rotational. Whereas, translational motion refers to the movement that is both linear and non-rotational. While rotational motion is referred to as the opposite of translational motion. The SCARA manipulator has a total of 3 degrees of freedom, and it consists of 2 revolute joints and 1 prismatic joint, also referred to as RRP (Revolute-Revolute-Prismatic).
+<h3 align="center">Mechanical Manipulator Table Guide </h3>
+
+<div align="center">
   
+|  Joint type      | Degrees of Freedom | Constraints c between two planar rigid bodies   | Constraints c between two spatial rigid bodies   |
+| :----:           |  :---:             |  :---:                                          |  :--:                                            |
+|  Revolute (R)    |  1                 |  2                                              |  5                                               |
+|  Prismatic (P)   |  1                 |  2                                              |  5                                               |
+|  Helical (H)     |  1                 |  N/A                                            |  5                                               |
+|  Cylindrical (C) |  2                 |  N/A                                            |  4                                               |
+|  Universal (U)   |  2                 |  N/A                                            |  4                                               | 
+|  Spherical (S)   |  3                 |  N/A                                            |  3                                               |
+
+</div>
+
+<h3 align="center">GRUBLER's CRITERION </h3>
+
+<div align="center">
+  
+|       Mobility/DOF of Spatial Manipulator                             | Mobility/DOF of Planar Manipulator                                 |                                               
+| ------------------------------------------------------------------    | -------------------------------------------------------------------| 
+| ` Ci: Connectivity of i-th joint:` 1,2,3...,m                         |` Ci: Connectivity of i-th joint:` 1,2,3...,m                       | 
+| ` No. of constraint put by i-th joint=` (6-Ci)                        |`No. of constraint put by i-th joint=` (3-Ci)                       | 
+| ` Total No. of constraint=` $$\sum_{i=1}^m (6-Ci)$$                   |` Total No. of constraint=` $$\sum_{i=1}^m (3-Ci)$$                 |
+| ` Mobility of the manipulator:` $$M = 6n - \sum_{i=1}^m (6-Ci)$$      | ` Mobility of the manipulator:` $$M = 3n - \sum_{i=1}^m (3-Ci)$$   |
+
+</div>
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1CdT6I6RHsr7WKCz6EY8NfhsUF3WhsL46/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/PYTHON-PROGRAMS/blob/e5505ad3d8627a24d04b4ce95dc09fd4f19ea097/TASK%201.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 1. Solving the DOF (Degrees of Freedom) of the Standard SCARA Manipulator</i></b> </h3> 
