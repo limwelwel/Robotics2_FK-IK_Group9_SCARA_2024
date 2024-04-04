@@ -80,6 +80,8 @@ This section showcases the different calculators for SCARA manipulators used in 
 
 
 ## IX. References
+
+
 <hr>
 
 <p align="center">
