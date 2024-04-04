@@ -21,7 +21,6 @@
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>DOF, or Degrees of Freedom</b>, refers to the number of possible independent variables or parameters that a system or a manipulator can possess. Moreover, it is usually referred to as the number of joints or axes of motion. In a mechanism, three-dimensional space can support up to 6 degrees of freedom, represented as translational and rotational. Whereas, translational motion refers to the movement that is both linear and non-rotational. While rotational motion is referred to as the opposite of translational motion. The SCARA manipulator has a total of 3 degrees of freedom, and it consists of 2 revolute joints and 1 prismatic joint, also referred to as RRP (Revolute-Revolute-Prismatic).
 <h3 align="center">Mechanical Manipulator Table Guide </h3>
-
 <div align="center">
   
 |  Joint type      | Degrees of Freedom | Constraints c between two planar rigid bodies   | Constraints c between two spatial rigid bodies   |
@@ -32,11 +31,9 @@
 |  Cylindrical (C) |  2                 |  N/A                                            |  4                                               |
 |  Universal (U)   |  2                 |  N/A                                            |  4                                               | 
 |  Spherical (S)   |  3                 |  N/A                                            |  3                                               |
-
 </div>
 
-<h3 align="center">GRUBLER's CRITERION </h3>
-
+<h3 align="center">GRUBLER'S CRITERION </h3>
 <div align="center">
   
 |       Mobility/DOF of Spatial Manipulator                             | Mobility/DOF of Planar Manipulator                                 |                                               
@@ -45,8 +42,12 @@
 | ` No. of constraint put by i-th joint=` (6-Ci)                        |`No. of constraint put by i-th joint=` (3-Ci)                       | 
 | ` Total No. of constraint=` $$\sum_{i=1}^m (6-Ci)$$                   |` Total No. of constraint=` $$\sum_{i=1}^m (3-Ci)$$                 |
 | ` Mobility of the manipulator:` $$M = 6n - \sum_{i=1}^m (6-Ci)$$      | ` Mobility of the manipulator:` $$M = 3n - \sum_{i=1}^m (3-Ci)$$   |
-
 </div>
+
+<p align="center">
+<img src="https://github.com/limwelwel/DRAFT/blob/a2f017a4f03bd17b3a67724b250e14f34836493d/DOF%20SOLU.png"  height="300px"/>
+<h3 align="center"> <b><i>Figure 1. SCARA Manipulator DOF Calculation</i></b> </h3>
+<br>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1CdT6I6RHsr7WKCz6EY8NfhsUF3WhsL46/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/PYTHON-PROGRAMS/blob/e5505ad3d8627a24d04b4ce95dc09fd4f19ea097/TASK%201.png"height="400px"/></a>
@@ -79,6 +80,11 @@
 
 **Rule 4:** All frames must follow the right-hand rule.
 
+<p align="center">
+<img src="https://github.com/limwelwel/DRAFT/blob/65f8cf37d1e095c02a476a1d5356dcb9b0787f6e/kinematic%20.png"  height="400px"/>
+<h3 align="center"> <b><i>Figure 2. SCARA Manipulator Kinematic Diagram</i></b> </h3>
+<br>
+  
  <p align="center">
   <a href="https://drive.google.com/file/d/1rymezMT4zJorQF2his_l1TRBt6K0IQWT/view?usp=sharing"><img alt="Task 2" title="Task 2" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%202.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 2. Assigning of Frames of the Standard SCARA Manipulator</i></b> </h3>
@@ -99,11 +105,25 @@
 **d** - The distance between the origins of n-1 and n frames along the Zn-1 direction, with joint variables if the joint is prismatic.
 
 <p align="center">
+<img src="https://github.com/limwelwel/DRAFT/blob/b17b3f33909ae135306f8436cb644c853d15b47e/parametric%20table.png"  height="300px"/>
+<h3 align="center"> <b><i>Figure 3. SCARA Manipulator D-H Parametric Table</i></b> </h3>
+<br>
+
+<p align="center">
   <a href="https://drive.google.com/file/d/1naChFGyDiIW3-L_m8huqTZHfjY5MXMNQ/view?usp=sharing"><img alt="Task 3" title="Task 3" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%203.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 3. Obtaining the D-H Parametric Table of the Standard SCARA Manipulator</i></b> </h3>
   
 ## VI. HTM of SCARA Mechanical Manipulator
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A <b>Homogeneous Transformation Matrix</b>, often used in computer graphics, computer vision, and robotics, is a mathematical representation of a coordinate transformation in a homogeneous coordinate system. It is typically used to describe transformations such as translation, rotation, scaling, and shearing in a single matrix.
+
+### STANDARD FORMULA
+<p align="center">
+<img src="https://github.com/limwelwel/DRAFT/blob/eb6392692f823bb9e9fe356395d0295096558479/HTM%20FORMULA.png"  height="200px"/>
+
+<p align="center">
+<img src="https://github.com/limwelwel/DRAFT/blob/f884d4438db1aad22269d25d01c53f23cb7b4737/inverse%20front.png"  height="400px"/>
+<h3 align="center"> <b><i>Figure 4. SCARA Manipulator HTM Calculation </i></b> </h3>
+<br>
 
   <p align="center">
   <a href="https://drive.google.com/file/d/1oKe80Zd7q9mNZIj_aM2I1ZoP5hwllQgU/view?usp=sharing"><img alt="Task 4" title="Task 4" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%204.png"height="400px"/></a>
@@ -112,6 +132,15 @@
 ## VII. Inverse Kinematics of SCARA Mechanical Manipulator
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Inverse kinematics</b> is a mathematical process that determines the joint positions required to position a robot's end effector at a specific position and orientation (also known as its "pose"). When dealing with inverse kinematics, there can be multiple solutions and approaches to calculating the desired joint positions. In the case of an RRP SCARA manipulator, which involves finding solutions for joint variables like  θ1, θ2 and d3, the process typically entails visualizing the kinematic diagram from a top view and utilizing mathematical formulas to determine the joint angles. It is important to note that for an RRP SCARA manipulator, seven solutions can be obtained for the inverse kinematics, which is essential in specifying the robot's motion.
+
+<p align="center">
+<img src="https://github.com/limwelwel/DRAFT/blob/f884d4438db1aad22269d25d01c53f23cb7b4737/inverse%20top.png"  height="400px"/>
+<h3 align="center"> <b><i>Figure 5. Inverse Kinematic Diagram (Top View)</i></b> </h3>
+
+<p align="center">
+<img src="https://github.com/limwelwel/DRAFT/blob/f884d4438db1aad22269d25d01c53f23cb7b4737/inverse%20front.png"  height="400px"/>
+<h3 align="center"> <b><i>Figure 6. Inverse Kinematic Diagram (Front View)</i></b> </h3>
+<br>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/179n20iP9Uhr3h8p6Zi4qoV-yyfQ9ytl5/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%205.png"height="400px"/></a>
