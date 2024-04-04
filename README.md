@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>DOF, or Degrees of Freedom</b>, refers to the number of possible independent variables or parameters that a system or a manipulator can possess. Moreover, it is usually referred to as the number of joints or axes of motion. In a mechanism, three-dimensional space can support up to 6 degrees of freedom, represented as translational and rotational. Whereas, translational motion refers to the movement that is both linear and non-rotational. While rotational motion is referred to as the opposite of translational motion. The SCARA manipulator has a total of 3 degrees of freedom, and it consists of 2 revolute joints and 1 prismatic joint, also referred to as RRP (Revolute-Revolute-Prismatic).
   
 <p align="center">
-  <a href="https://drive.google.com/file/d/1CdT6I6RHsr7WKCz6EY8NfhsUF3WhsL46/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/PYTHON-PROGRAMS/blob/e5505ad3d8627a24d04b4ce95dc09fd4f19ea097/TASK%201.png"/></a>
+  <a href="https://drive.google.com/file/d/1CdT6I6RHsr7WKCz6EY8NfhsUF3WhsL46/view?usp=sharing"><img alt="Task 1" title="Task 1" src="https://github.com/limwelwel/PYTHON-PROGRAMS/blob/e5505ad3d8627a24d04b4ce95dc09fd4f19ea097/TASK%201.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 1. Solving the DOF (Degrees of Freedom) of the Standard SCARA Manipulator</i></b> </h3> 
   
 ## IV. Kinematic Diagram and D-H Frame assignment of SCARA Mechanical Manipulator 
@@ -56,7 +56,7 @@
 **Rule 4:** All frames must follow the right-hand rule.
 
  <p align="center">
-  <a href="https://drive.google.com/file/d/1rymezMT4zJorQF2his_l1TRBt6K0IQWT/view?usp=sharing"><img alt="Task 2" title="Task 2" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%202.png"/></a>
+  <a href="https://drive.google.com/file/d/1rymezMT4zJorQF2his_l1TRBt6K0IQWT/view?usp=sharing"><img alt="Task 2" title="Task 2" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%202.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 2. Assigning of Frames of the Standard SCARA Manipulator</i></b> </h3>
    
 ## V. D-H Parametric Table of SCARA Mechanical Manipulator
@@ -75,14 +75,14 @@
 **d** - The distance between the origins of n-1 and n frames along the Zn-1 direction, with joint variables if the joint is prismatic.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1naChFGyDiIW3-L_m8huqTZHfjY5MXMNQ/view?usp=sharing"><img alt="Task 3" title="Task 3" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%203.png"/></a>
+  <a href="https://drive.google.com/file/d/1naChFGyDiIW3-L_m8huqTZHfjY5MXMNQ/view?usp=sharing"><img alt="Task 3" title="Task 3" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%203.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 3. Obtaining the D-H Parametric Table of the Standard SCARA Manipulator</i></b> </h3>
   
 ## VI. HTM of SCARA Mechanical Manipulator
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A <b>Homogeneous Transformation Matrix</b>, often used in computer graphics, computer vision, and robotics, is a mathematical representation of a coordinate transformation in a homogeneous coordinate system. It is typically used to describe transformations such as translation, rotation, scaling, and shearing in a single matrix.
 
   <p align="center">
-  <a href="https://drive.google.com/file/d/1oKe80Zd7q9mNZIj_aM2I1ZoP5hwllQgU/view?usp=sharing"><img alt="Task 4" title="Task 4" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%204.png"/></a>
+  <a href="https://drive.google.com/file/d/1oKe80Zd7q9mNZIj_aM2I1ZoP5hwllQgU/view?usp=sharing"><img alt="Task 4" title="Task 4" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%204.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 4. Solving the HTM (Homogeneous Transformation Matrix) of the Standard SCARA Manipulator</i></b> </h3>
     
 ## VII. Inverse Kinematics of SCARA Mechanical Manipulator
@@ -90,15 +90,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Inverse kinematics</b> is a mathematical process that determines the joint positions required to position a robot's end effector at a specific position and orientation (also known as its "pose"). When dealing with inverse kinematics, there can be multiple solutions and approaches to calculating the desired joint positions. In the case of an RRP SCARA manipulator, which involves finding solutions for joint variables like  θ1, θ2 and d3, the process typically entails visualizing the kinematic diagram from a top view and utilizing mathematical formulas to determine the joint angles. It is important to note that for an RRP SCARA manipulator, seven solutions can be obtained for the inverse kinematics, which is essential in specifying the robot's motion.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/179n20iP9Uhr3h8p6Zi4qoV-yyfQ9ytl5/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%205.png"/></a>
+  <a href="https://drive.google.com/file/d/179n20iP9Uhr3h8p6Zi4qoV-yyfQ9ytl5/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%205.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 5. Solving the Inverse Kinematics of the Standard SCARA Manipulator using Graphical/Geometrical Method</i></b> </h3>
 
 ## VIII. Forward and Inverse Kinematics GUI calculator of SCARA Mechanical Manipulator 
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This section showcases the different calculators for SCARA manipulators used in Python Simulation. Two types of calculators were used for the simulation: <b>Forward Kinematics Calculator and Inverse Kinematics Calculator</b>.
 
+<p align="center">
+<img src="https://github.com/limwelwel/DRAFT/blob/178a4559b447eaac9f03a16d24888d880ae1a597/Scara%20F.png"  height="500px"/> <img src="https://github.com/limwelwel/DRAFT/blob/178a4559b447eaac9f03a16d24888d880ae1a597/Scara%20I%26F.png" height="500px"/>
+
+
   <p align="center">
-  <a href="https://drive.google.com/file/d/1cS7UrIVmMEwfAtqNzpuIv1ekngvSZmjs/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%206.png"/></a>
+  <a href="https://drive.google.com/file/d/1cS7UrIVmMEwfAtqNzpuIv1ekngvSZmjs/view?usp=sharing"><img alt="Task 5" title="Task 5" src="https://github.com/limwelwel/DRAFT/blob/8f3403cf6326093505c01075768493b42df13742/TASK%206.png"height="400px"/></a>
 <h3 align="center"> <b><i>Video 6. GUI Calculator of the Standard SCARA Manipulator</i></b> </h3>
     
 ## IX. References
