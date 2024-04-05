@@ -175,7 +175,7 @@ Ars. (2022). SCARA Robot. FlexiBowl. https://www.flexibowl.com/scara-robot.html
 
 Henry, N. (n.d.). Right-Hand Rule. Understanding Robot Coordinate Frames and Points. https://www.solisplc.com/tutorials/robot-coordinate-frames-and-points
 
-<h3 align="center">SCARA ENGINEERS</h3>
+<h3 align="center">G9 SCARA ENGINEERS</h3>
 
 <h4 align="center">Ada, Lemuel J. - PP <i>(Project Programmer)</i></h4>
 <h4 align="center">Cometa, Steven Shaine M. - PL <i>(Project Leader)</i></h4>
