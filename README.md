@@ -173,6 +173,14 @@ http://www.robothalloffame.org/inductees/06inductees/scara.html#:~:text=The%20li
 
 Ars. (2022). SCARA Robot. FlexiBowl. 
 https://www.flexibowl.com/scara-robot.html
+
+<h3 align="center">SCARA ENGINEERS</h3>
+
+<h4 align="center">Ada, Lemuel J. - PP <i>(Project Programmer)</i></h4>
+<h4 align="center">Cometa, Steven Shaine M. - PL <i>(Project Leader)</i></h4>
+<h4 align="center">Eje, Ken Christian D. - PQ <i>(Project Quality Engineer)</i></h4>
+<h4 align="center">Umali, Felicity D.- PS <i>(Project Supervisor)</i></h4>
+
 <hr>
 <p align="center">
   <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/3078971571d8ab959cb3e9882e7a0265d9947afc/bsu%20footer.png alt=Bsu style="height: 200px;">
