@@ -168,12 +168,12 @@
 <h3 align="center"> <b><i>Video 6. GUI Calculator of the Standard SCARA Manipulator</i></b> </h3>
     
 ## IX. References
+<p align="justify"> 
+The Robot Hall of Fame - Powered by Carnegie Mellon University. (n.d.). http://www.robothalloffame.org/inductees/06inductees/scara.html#:~:text=The%20limited%20motion%20of%20the,ratio%20regarding%20high%20speed%20assembly.
 
-The Robot Hall of Fame - Powered by Carnegie Mellon University. (n.d.). 
-http://www.robothalloffame.org/inductees/06inductees/scara.html#:~:text=The%20limited%20motion%20of%20the,ratio%20regarding%20high%20speed%20assembly.
+Ars. (2022). SCARA Robot. FlexiBowl. https://www.flexibowl.com/scara-robot.html
 
-Ars. (2022). SCARA Robot. FlexiBowl. 
-https://www.flexibowl.com/scara-robot.html
+Henry, N. (n.d.). Right-Hand Rule. Understanding Robot Coordinate Frames and Points. https://www.solisplc.com/tutorials/robot-coordinate-frames-and-points
 
 <h3 align="center">SCARA ENGINEERS</h3>
 
