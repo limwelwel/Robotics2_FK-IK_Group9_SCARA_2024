@@ -67,7 +67,7 @@
 
 **Rule 3:** Draw the color Coded arrows based on your decided 3 views.
 
-**Rule 4:** remember to make the arrows of Z and X axes easy to see for the future computations.
+**Rule 4:** Remember to make the arrows of Z and X axes easy to see for the future computations.
 
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The actual assignment of the frames can be a help for a much easier approach of analyzing the manipulator’s kinematic behavior. Rules are to be considered as well for an organized and systematic identification of the frames for specific joints, either revolute or prismatic.
@@ -81,7 +81,8 @@
 - Rotate the axis until it hits the other.
 - Or translate the axis until it hits the other.
 
-**Rule 4:** All frames must follow the right-hand rule.
+**Rule 4:** All frames must follow the right-hand rule. 
+<p align="center"><img src="https://github.com/limwelwel/DRAFT/blob/1b5bc3d443238fc8f2628e0b0b7e3ac2b18a870b/RIGHT%20HAND%20RULE.png"  height="150px"/>
 
 <p align="center">
 <img src="https://github.com/limwelwel/DRAFT/blob/65f8cf37d1e095c02a476a1d5356dcb9b0787f6e/kinematic%20.png"  height="400px"/>
