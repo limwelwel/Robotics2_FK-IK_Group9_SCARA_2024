@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/3078971571d8ab959cb3e9882e7a0265d9947afc/bsu%20header.png alt=Bsu style="height: 200px;">
+  <img src=https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/bsu%20header.png alt=Bsu style="height: 200px;">
   <hr>
 <h3 align="center">COLLEGE OF ENGINEERING</h3>
 <h3 align="center">BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</h3>
@@ -184,4 +184,4 @@ Henry, N. (n.d.). Right-Hand Rule. Understanding Robot Coordinate Frames and Poi
 
 <hr>
 <p align="center">
-  <img src=https://github.com/limwelwel/PYTHON-PROGRAMS/blob/3078971571d8ab959cb3e9882e7a0265d9947afc/bsu%20footer.png alt=Bsu style="height: 200px;">
+  <img src=https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/bsu%20footer.png alt=Bsu style="height: 200px;">
